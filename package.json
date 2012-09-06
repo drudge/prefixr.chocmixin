@@ -1,0 +1,28 @@
+{
+  "name": "prefixr",
+  "version": "1.0.0",
+  "description": "Prefixr (cross-browser CSS generator) support for Chocolat",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudge/prefixr.chocmixin.git"
+  },
+  "keywords": [
+    "css",
+    "prefixr",
+    "web",
+    "stylesheet",
+    "css3",
+    "styles",
+    "generator",
+    "browser",
+    "cross-browser",
+    "firefox",
+    "opera",
+    "mozilla",
+    "chrome",
+    "webkit"
+  ],
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT"
+}
